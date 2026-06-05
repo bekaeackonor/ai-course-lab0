@@ -1,0 +1,5 @@
+﻿# Lab 0: Git Practice
+This is my first Git repository for the AI course.
+
+Kwasi Bekae Ackonor 79402028
+To practice concepts discussed in class.
